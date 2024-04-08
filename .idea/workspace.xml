@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52fb33e-fad4-4a22-bda0-84e5e3557c08" name="Changes" comment="First commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f52fb33e-fad4-4a22-bda0-84e5e3557c08" name="Changes" comment="queue done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CISLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CISLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CISQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CISQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BreadthFirstSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CISQueueTest">
+  <component name="RunManager" selected="JUnit.BreadthFirstSearchTest">
     <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch" />
       <module name="CS.12.03-Tutorial.2-Queues" />
@@ -112,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CISQueueTest" />
         <item itemvalue="JUnit.BreadthFirstSearchTest" />
+        <item itemvalue="JUnit.CISQueueTest" />
         <item itemvalue="JUnit.BreadthFirstSearchTest.bfs" />
         <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="JUnit.CISQueueLinkedListTest.dequeue" />
@@ -129,7 +127,11 @@
       <option name="presentableId" value="Default" />
       <updated>1706593924192</updated>
       <workItem from="1708392806182" duration="953000" />
-      <workItem from="1708393811308" duration="312000" />
+      <workItem from="1708393811308" duration="1971000" />
+      <workItem from="1708926941407" duration="23000" />
+      <workItem from="1708926989850" duration="11000" />
+      <workItem from="1708927011505" duration="3000" />
+      <workItem from="1712547833268" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <created>1706664595410</created>
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706664595410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="queue done">
+      <option name="closed" value="true" />
+      <created>1708394472254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708394472254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
+    <MESSAGE value="queue done" />
+    <option name="LAST_COMMIT_MESSAGE" value="queue done" />
   </component>
 </project>
